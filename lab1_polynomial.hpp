@@ -1,6 +1,5 @@
-// GROUP 38
-// Name: Umar-Farooq Sheikh, ID: 20775784
-// Name: Shi Jie Tan, ID: 20616539
+// Name: Umar-Farooq Sheikh
+// Name: Shi Jie Tan
 
 // compiler directive
 #ifndef SYDE223_LAB1_POLYNOMIAL 
