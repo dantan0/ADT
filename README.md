@@ -2,6 +2,6 @@
 
 // Those are ongoing lab projects from my algorithm and data structure course in the waterloo engineering faculty. All codes are programmed in C++. 
 
-// lab 0 is creating a music playlist. This involves crating classes of music, song, and playlists. 
+// lab 0 involves creating a simple music playlist program.
 
-// lab 1
+// lab 1 involves creating a polynomial program that can read an input file of polynomial coefficients. The program can compare two strings of coefficients as well as perform polynomial calculations including addition, subtraction, multiplication, and derivatives. 
