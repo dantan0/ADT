@@ -1,6 +1,5 @@
-// GROUP 38
-// Name: Umar-Farooq Sheikh, ID: 20775784
-// Name: Shi Jie Tan, ID: 20616539
+// Name: Umar-Farooq Sheikh
+// Name: Shi Jie Tan
 
 #include "lab1_polynomial.hpp" // include header file for compiler
 
