@@ -1,6 +1,6 @@
 # algorithm_data-structures
 
-// Those are ongoing lab projects from my algorithm and data structure course in the waterloo engineering faculty. All codes are programmed in C++. 
+// Those are ongoing lab projects from my algorithm and data structure course at UWaterloo. All codes are programmed in C++. 
 
 // lab 0 involves creating a simple music playlist program.
 
