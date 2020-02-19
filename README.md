@@ -6,4 +6,4 @@ lab 0 involves creating a simple music playlist program.
 
 lab 1 involves creating a polynomial program that can read an input file of polynomial coefficients. The program can compare two strings of coefficients as well as perform polynomial calculations including addition, subtraction, multiplication, and derivatives. 
 
-lab 2 ...
+lab 2 involves creating doubly linked class for the DronesManager class and creating test functions. 
