@@ -9,4 +9,4 @@ lab 2 involves creating DLL (doubly linked list) functions for the DronesManager
 
 lab 3 involves priority queue operations using heap and binary tree operations. 
 
-PE2 involves creating binary tree functions. 
+PE involves creating binary tree functions. 
