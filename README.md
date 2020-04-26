@@ -8,3 +8,5 @@ lab 1 involves creating a polynomial program that can read an input file of poly
 lab 2 involves creating DLL (doubly linked list) functions for the DronesManager class and test functions.
 
 lab 3 involves priority queue operations using heap and binary tree operations. 
+
+PE2 involves creating binary tree functions. 
