@@ -1,6 +1,5 @@
 # algorithm_data-structures
-
-Ongoing labs from my algorithm and data structure course at UWaterloo. All codes are programmed in C++. 
+All codes are programmed in C++. 
 
 lab 0 involves creating a simple music playlist program.
 
