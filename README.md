@@ -8,4 +8,4 @@ All codes are programmed in C++ in an object-oriented manner along with test cas
 - PE involves creating binary tree functions. 
 
 # Acknowledgement: 
-The labs are based on UW's SYDE223 - Algorithms & Data Structures and done in collaboration with my partner and mentor: Umar.
+The labs are based on UW's SYDE223 - Algorithms & Data Structures and done in collaboration with my partner: Umar.
