@@ -1,4 +1,4 @@
-# Algorithm & Data Structures
+# Algorithms & Data Structures
 All codes are programmed in C++ in an object-oriented manner along with test cases. The following provides a short description of each lab. 
 
 - lab 0 involves creating a simple music playlist program.
