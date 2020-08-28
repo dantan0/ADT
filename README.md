@@ -6,6 +6,3 @@ All codes are programmed in C++ in an object-oriented style along with test case
 - lab 2 involves creating DLL (doubly linked list) functions for the DronesManager class and test functions.
 - lab 3 involves priority queue operations using heap and binary tree operations. 
 - PE involves creating binary tree functions. 
-
-# Acknowledgement: 
-The labs are based on UW's SYDE223 - Algorithms & Data Structures and done in collaboration with my partner. 
