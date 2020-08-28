@@ -1,5 +1,5 @@
 # Algorithms & Data Structures
-All codes are programmed in C++ in an object-oriented style along with test cases. The following provides a short description of each lab. 
+All programs are written in C++ using OOP. 
 
 - lab 0 involves creating a simple music playlist program.
 - lab 1 involves creating a polynomial program that can read an input file of polynomial coefficients and perform calculations.
