@@ -1,5 +1,5 @@
 # Algorithms & Data Structures
-All programs are written in C++ using OOP. 
+All programs are written by me and my lab partner: Umar.
 
 - lab 0 involves creating a simple music playlist program.
 - lab 1 involves creating a polynomial program that can read an input file of polynomial coefficients and perform calculations.
