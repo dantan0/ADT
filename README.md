@@ -6,3 +6,4 @@ All programs are written by me and my lab partner: Umar.
 - lab 2 involves creating DLL (doubly linked list) functions for the DronesManager class and test functions.
 - lab 3 involves priority queue operations using heap and binary tree operations. 
 - PE involves creating binary tree functions. 
+- unit tests for lab 2 & 3
