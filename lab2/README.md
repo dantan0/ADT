@@ -1,3 +1,3 @@
 # lab2 
 
-Perform various DLL operations
+A drones manager program using the DLL data structure
